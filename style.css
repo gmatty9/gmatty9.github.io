@@ -1,0 +1,76 @@
+h1{
+  color: red;
+  background-color:#ffede7;
+  font-size: 50pt;
+  text-align: center;
+  width : px;
+  border-radius: 30px;
+}
+body{
+  color: black;
+  background-color: white ;
+  font-size: 15pt;
+}
+a{
+  color: red;
+  font-size: 15pt;
+  background-color: white; ;
+}
+#id_selector{
+  background-color: white ;
+}
+img{
+  margin: 10px;
+  border: 15px white ;
+  padding: 10px;
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+}
+/* the search box and button */
+#special {
+  color: lightcoral;
+   border: 3px white ;
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+   padding: 10x;
+  cursor: progress;
+}
+.navbar-brand {
+  letter-spacing: 3px;
+  color: #c24244;
+}
+
+.navbar-brand:hover {
+  color: #c24244;
+}
+
+.navbar-scroll .nav-link,
+.navbar-scroll .fa-bars {
+  color: black;
+}
+
+.navbar-scrolled .nav-link,
+.navbar-scrolled .fa-bars {
+  color: black;
+}
+
+.navbar-scrolled {
+  background-color: white;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ffffff;
+}
